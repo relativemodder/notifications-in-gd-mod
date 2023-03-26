@@ -2,7 +2,7 @@
 
 # Using
 
-*Inject DLL* file from [Releases](https://github.com/relativemodder/notifications-in-gd-mod/releases) to GD (with Megahack, for example)
+**Inject DLL** file from [Releases](https://github.com/relativemodder/notifications-in-gd-mod/releases) to GD (with Megahack, for example)
 
 
 # Used library template matcool/cpm-template-mod
