@@ -1,4 +1,10 @@
-# gd-mod-cpm
+# notifications-in-gd-mod
+
+## Using
+
+Inject DLL file from [Releases](https://github.com/relativemodder/notifications-in-gd-mod/releases) to GD (with Megahack, for example)
+
+# Used library template matcool/cpm-template-mod
 
 geometry dash mod template using [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) as a package manager
 
